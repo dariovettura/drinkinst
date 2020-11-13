@@ -1,0 +1,407 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Add your CSS code here.
+For example:
+.example {
+color: red;
+}
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+End of comment */ 
+
+
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+/*modifiche generali_drinklist*/
+#player1 {
+display: inline-block;
+width: 100%;
+height: 50vh;
+
+}
+#mapid{height:70vh;position: relative;z-index:1}
+.mappi iframe{height: 70vh;width: 100%}
+.gps:after{
+    content:'⊙';font-size: 20px;color: #000}
+.flip-button h3:before{}
+.fre{content: '▲';position: absolute;right: 16px;top:4px;font-size: 20px;transition: all 0.5s linear;}
+.anim{-webkit-transform: rotate(180deg);
+  transform: rotate(180deg);}
+.anim2{-webkit-transform: rotate(0deg);
+  transform: rotate(0deg);}
+
+.fotostaff{height: 50vh}
+.card{position:static;border-radius: 0px}
+.card-body{height: auto;bottom:20px;
+  background-color:rgb(0,0,0,0.5) !important}
+#myDropdown2 .col-sm-4 {
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.flip-text{
+  padding-left: 10%;font-size: 0.8em;
+ 
+}
+.rigamodale .flip-text{
+  margin-top:30%}
+.flip-button{
+  top: 89.7%;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  padding: 6px 1px 6px 1px;
+  border: 1px solid #FF8800;
+  font-weight: bold;
+  background-color: rgb(0,0,0,0.5);
+  font-size: 12px;
+}
+.bottone-chiama{
+  text-align: center;
+  color: #fff;
+  padding: 6px 1px 6px 1px;
+  margin-top:20px;
+  border: 1px solid #FF8800;
+  font-weight: bold;
+  background-color: rgb(0,0,0,0.5);
+}
+/*COOKIE*/
+
+.cookie-banner {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+ 
+width: auto;
+  padding: 5px 14px;
+  display: flex;
+ 
+  border-top: solid 1px #ff8800;
+  background-color: #000000;
+  border-radius: 15px;
+ 
+}
+.cookie-banner p{font-size: 0.8em }
+.close {
+  height: 20px;
+  background-color: #777;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+
+
+
+/* BODY TIPOGRAFIA e MARGIN */
+
+body{overflow-x: hidden}
+button[type="submit"]{
+  background-color:#ff8800;
+  border-radius:10px}
+.orange{
+  color:#ff8800}
+.padd{
+  padding-top: 50px;
+}
+h1{color: #fff;
+  padding-top:0px;
+  font-size:2em;
+  font-family: 'Anton', sans-serif;
+}
+.herotit h1{  padding-top:0px;font-size: 20vw}
+h2{
+  padding-top:30px;
+  font-size:2em;
+  font-family: 'Anton', sans-serif;
+}
+.herotit h2{ font-size: 1.5em; padding-top:0px}
+.herotit p{ font-size: 1em; padding-top:0px}
+h3{
+  font-size:1.8em;
+  font-family: 'Anton', sans-serif;
+}
+footer h2{ font-size:15vw;}
+h5{
+  font-size:1.6em;
+  font-family: 'Anton', sans-serif;
+}
+.flip-button h5{
+  font-size:1.5em;
+  font-family: 'Anton', sans-serif;
+  padding:6px !important
+}
+h7{
+  font-size:1.5em;
+  font-family: 'Anton', sans-serif;
+}
+p{
+  font-size:1.5em
+;margin-bottom:0px}
+li{
+  font-size:1.5em;
+  color:#fff}
+.info-page h4,h6{
+  padding-top:60px;
+  font-size:2em}
+.cliente h4,h6{
+  padding-top:60px;
+  font-size:2em}
+ h2.tit-drinklist{font-size:1.8em;padding-top:20px}
+h2,h3,h4,p{
+ 
+  color:#fff}
+a{
+  color:#fff}
+a:hover:after, a:focus:after, a:active:after {
+  width: 100%;
+}
+a:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0%;
+  transform: translateX(-50%);
+  height: 3px;
+  background: #fff;
+  transition: 0.35s;
+}
+body{
+  background-color:#000}
+/* HEADER*/
+
+
+
+
+
+/* main*/
+.hero1{padding-top:80px}
+.coltitolo,.colmappa{}
+.drinklist .e{padding-bottom: 20px}
+/* SLIDER*/
+
+.slick-next{right:20px !important;z-index: 10}
+.slick-prev{left:20px !important;z-index: 10}
+
+/* FOOTER*/
+footer .col-4{padding-left: 5px;padding-right: 5px}
+.tit{
+  font-size:1em;
+  font-family:'Anton'}
+.sottit{
+  font-size:0em;
+  color:transparent}
+input{
+  margin:20px}
+.footerissimo{
+  background-color:#000}
+.footerissimo h3{
+  font-family:'Anton';
+  font-size:3em;
+  margin-top:20px}
+.footerissimo p{
+  font-size:1em}
+i{
+  font-size:30px}
+.d{
+  display:none}
+.j{
+  display:none}
+.y{
+  display:block;
+  cursor:pointer;
+}
+.k{
+}
+.k:nth-child(1){
+  display:block;
+}
+.k:nth-child(2){
+  display:block;
+}
+.m{
+  display:none}
+.t{
+  display:block;
+  cursor:pointer;
+}
+
+.age-gate-wrapper{
+  z-index:999999999;
+}
+.fixed{
+  position:fixed;
+}
+/* premium banner */
+.cn-button.bootstrap {
+  color: #fff;
+  background: #ff8800;
+}
+/* bottoni che fanno cose */ .filterDiv {
+  display: none;
+  /* Hidden by default */ }
+@keyframes fadeoutt {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+@keyframes fadeinn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.scompare{
+  opacity:0;
+  animation:fadeoutt 2s ease-out 0s running;
+}
+
+.btn.active{
+  color:#fff;
+}
+.nascosto{
+  display: none;
+}
+.visibile{
+  display: block;
+  animation: fadeinn 1s ease-out 0s running;
+}
+#mybutn {
+  display: block;
+  /* Hidden by default */ position: fixed;
+  /* Fixed/sticky position */ bottom: 20px;
+}
+/*PRELOADER */
+.pre-si{
+  ;
+  position: fixed;
+  right:0px;
+  bottom:0px;
+  width: 100vw;
+  height: 100vh;
+}
+.pre-no{
+  display:none}
+/*SEARCH DRINK */ #myInput2 {
+  color: #fff;
+  box-sizing: border-box;
+  background-color:transparent;
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 10px 10px 10px 15px;
+  margin:px;
+  border: 1px solid #ddd;
+  border-radius:15px;
+}
+@keyframes fadeinn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.vedi {
+  display: block;
+  animation: fadeinn 1s ease-out 0s running;
+}
+/*FOOTER */
+/*SEARCH FOOTER */
+#myInput {
+  color: #fff;
+  box-sizing: border-box;
+  background-color:transparent;
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 10px 10px 10px 15px;
+  margin:px;
+  border: 1px solid #ddd;
+  border-radius:15px;
+}
+/*TAB SINGLE BAR */ 
+.a{
+  display:block}
+.aa{
+  display:none}
+.b{
+  display:none}
+.bb{
+  display:block}
+.c{
+  display:block}
+.cc{
+  display:none}
+.attivo{
+  border-bottom:4px solid #ff8800;
+}
+.tab-button {
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom:5px;
+}
+i{
+  color:#fff}
+/*Flip-box 
+.flip-box {
+background-color: transparent; width: 10;
+height: 500px;
+perspective: 1000px; }
+.flip-box-inner {
+position: relative;
+width: 100%;
+height: 100%;
+transition: transform 0.4s; transform-style: preserve-3d;
+}
+.flip-box:hover .flip-box-inner { transform: rotateY(180deg);
+}
+.flip-box-front, .flip-box-back { position: absolute;
+width: 100%;
+height: 100%; -webkit-backface-visibility: hidden;
+backface-visibility: hidden; }
+.flip-box-front { background-color:transparent; color: black;
+}
+.flip-box-back { background-color:rgba(0, 0, 0, 0.4); color: whie;
+transform: rotateY(180deg);
+}
+.flip-text{padding-left: 20%;margin-top:40%;} .flip-button{background-color: #ff8800;text-align: center;
+color: #fff;
+border-radius: 15px; margin-top: 100%;
+margin-right:60% ;
+margin-left:10% ;font-size: 16px;}
+.flip-button p{padding-top: 2px; padding-bottom: 4px
+;font-weight:bold; }*/ /*Swup */
+
+
+
+/*media */
+
+
+@media (min-width: 576px) 
+{body{padding-left: 18%;padding-right: 18%}
+	.herotit h1{font-size: 6em}
+	footer h2{font-size: 6em}
+  .hero1 h1{}
+  .hero1{height:100vh}
+  
+}
+
+
+
+
+
+

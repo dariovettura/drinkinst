@@ -1,0 +1,933 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Add your CSS code here.
+For example:
+.example {
+color: red;
+}
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+End of comment */ 
+/*flipbox Block*/
+.flip-box41, .flip-box42,.flip-box43,.flip-box44,.flip-box45,.flip-box46,.flip-box47,.flip-box48,.flip-box49{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box41 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/81181725_539223380015603_6772127015823736832_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box42 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/78209492_514119585859316_1005357771324915712_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box43 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/80047033_523776851560256_9071682704017195008_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box44{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/81484050_542340263037248_6755817354258546688_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box45 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/81658389_539223433348931_6844164019788447744_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box46 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Bramble.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box27 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-58-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box28 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/cocktail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box29 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-15-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box41:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box42:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box43:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box44:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box45:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box46:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox Bucopertuso*/
+.flip-box11, .flip-box12,.flip-box13,.flip-box14,.flip-box15,.flip-box16,.flip-box17,.flip-box18,.flip-box19{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box11 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/oro-al-buco.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box12 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Newyork-sour.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box13 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-79-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box14{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-50-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box15 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/86472388_2314218298679819_2046526138150289408_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box16 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-73-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box17 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-58-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box18 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/cocktail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box19 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-15-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box11:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box12:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box13:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box14:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box15:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box16:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box17:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box18:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box19:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox clock*/
+.flip-box51, .flip-box52,.flip-box53,.flip-box54,.flip-box55,.flip-box56,.flip-box57,.flip-box58,.flip-box59{
+  width: ;
+  height: 25vh;
+  perspective: 1000px;
+  background-position: center;
+  margin-top:10px;
+}
+.rigamodale .flip-box51,.rigamodale .flip-box52,.rigamodale .flip-box53,.rigamodale .flip-box54,.rigamodale .flip-box55,.rigamodale .flip-box56,.rigamodale .flip-box57,.rigamodale .flip-box58,.rigamodale .flip-box59{
+  width: ;
+  height: 60vh;
+  perspective: 1000px;
+  background-position: center;
+  margin-top:10px;
+}
+.flip-box51 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/69177749_2357309677655449_3445335495410712576_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box52 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/65734002_2246986265354458_535802182402834432_o.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+.flip-box53 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/75125110_2507770535942695_6316857265517232128_o.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+.flip-box54{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/56262372_2099841026735650_8948434017548500992_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box55 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/56679361_2095424213843998_5205745214542577664_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box56 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/62076773_2205903202796098_5778303473661509632_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box57 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/foto-interno.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box58 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Fesseria-staff-7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box59 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Fesseria-staff-7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box51:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box52:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box53:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box54:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box55:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box56:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+/*flipbox Salumeria*/
+.flip-box21, .flip-box22,.flip-box23,.flip-box24,.flip-box25,.flip-box26,.flip-box27,.flip-box28,.flip-box29{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box21 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box22 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box23 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box24{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box25 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box26 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box27 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/drinkinstreet-exsalumeria-9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box28 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/27747627_1770657723242263_5260136423498148853_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box29 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/06/drinkinstreet-exsalumeria-3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box21:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box22:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box23:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box24:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box25:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box26:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox Factory*/
+.flip-box61, .flip-box62,.flip-box63,.flip-box64,.flip-box65,.flip-box66,.flip-box67,.flip-box68,.flip-box69{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+}
+.flip-box61 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/oberdorfer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box62 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Farson-Red.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box63 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Cisk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box64{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Farson-Obelaf.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box65 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Steen-brugge-Dub.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box66 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Cornet.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box67 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-58-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box68 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/cocktail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box69 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-15-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.flip-box61:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box62:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box63:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box64:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box65:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box66:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox Flanagans*/
+.flana-staf{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/Flanagans-Staff.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.flana-loc1{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/IMG_5910-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.flana-loc2{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/IMG_5894.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.flana-loc3{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/IMG_5913.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.flana-loc4{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/IMG_5910.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.flip-box31, .flip-box32,.flip-box33,.flip-box34,.flip-box35,.flip-box36,.flip-box37,.flip-box38,.flip-box39{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box31 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/cocktail2-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box32 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/cocktail1-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+}
+.flip-box33 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/cocktail3-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.flip-box34{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/cocktail5-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box35 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/Cocktail4-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box36 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/10/cocktail7-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box37 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/84466517_2562861010650057_8255823493996740608_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box38 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/79153951_2503039956632163_148175976575008768_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box39 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/78486764_2497736230495869_4462027444911603712_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box31:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box32:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box33:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box34:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box35:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box36:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box37:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box38:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box39:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox Geottino*/
+.flip-box71, .flip-box72,.flip-box73,.flip-box74,.flip-box75,.flip-box76,.flip-box67,.flip-box68,.flip-box69{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box71 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/67414126_3048602935179772_6434077686213115904_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box72 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/78530271_3435919739781421_3240226884058873856_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box73 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/67377292_3030151027024963_5097665476390027264_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box74{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/71491957_3233616410011756_482719964332032_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box75 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/85220209_3642417315798328_4199364016935534592_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box76 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/79602429_3435915816448480_2904910416368893952_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box67 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-58-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box68 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/cocktail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box69 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-15-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box71:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box72:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box73:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box74:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box75:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box76:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox FEsseriao*/
+.flip-box81, .flip-box82,.flip-box83,.flip-box84,.flip-box85,.flip-box86,.flip-box87,.flip-box88,.flip-box89{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box81 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Bramble.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center left;
+}
+.flip-box82 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Damiana.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box83 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/FerryBoat.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box84{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Bitter-mood.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box85 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Daiquiri.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center left;
+}
+.flip-box86 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Mojito-virgin.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box87 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/FacciaGialla.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box88 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Boulevardier.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box89 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Fizz-allitaliana.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box81:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box82:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box83:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box84:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box85:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box86:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box87:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box88:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box89:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox Misture*/
+.flip-box91, .flip-box92,.flip-box93,.flip-box94,.flip-box95,.flip-box96,.flip-box97,.flip-box98,.flip-box99{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box91 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/75348924_2485498968352087_7000287017300918272_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box92 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/48357519_2252720698296583_6710441127855521792_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box93 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/46492965_2239293932972593_4142398340975296512_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box94{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/76609889_2486757368226247_6417369498927497216_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box95 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/44194860_2219061348329185_483221560677629952_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box96 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/46521776_2239290332972953_1919334706063605760_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box67 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-58-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box68 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/cocktail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box69 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/BucoPertuso2-quadrato-15-1024x1024-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.
+.flip-box91:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box92:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box93:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box94:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box95:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box96:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box27:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box28:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box29:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*flipbox PEPI VINTAGE*/
+.flip-box1, .flip-box2,.flip-box3,.flip-box4,.flip-box5,.flip-box6,.flip-box7,.flip-box8,.flip-box9{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.flip-box1 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Gambini.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box2 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Mr-Cutter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box3 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/oldfahioned.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box4{
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Janara.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box5 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/TommysMargarita.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box6 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Calssici-Bloodymary.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box7 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Analcolico.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box8 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Amara.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box9 {
+  background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/05/Manhattan.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flip-box1:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box2:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box3:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box4:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box5:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box6:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box7:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box8:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box9:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/*modifiche generali*/
+.card-body{height: 400px;bottom:20px;
+  background-color:rgb(0,0,0,0.5) !important}
+#myDropdown2 .col-sm-4 {
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.4s;
+  transform-style: preserve-3d;
+}
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.flip-box-front {
+  background-color:transparent;
+  color: black;
+}
+.flip-box-back {
+  background-color:rgba(0, 0, 0, 0.3);
+  color: whit;
+  transform: rotateY(180deg);
+}
+.flip-text{
+  padding-left: 10%;
+  margin-top:20%;
+}
+.rigamodale .flip-text{
+  margin-top:30%}
+.flip-button{
+  top: 89.7%;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  padding: 6px 1px 6px 1px;
+  border: 1px solid #FF8800;
+  font-weight: bold;
+  background-color: rgb(0,0,0,0.5);
+  font-size: 12px;
+}
+.bottone-chiama{
+  text-align: center;
+  color: #fff;
+  padding: 6px 1px 6px 1px;
+  margin-top:20px;
+  border: 1px solid #FF8800;
+  font-weight: bold;
+  background-color: rgb(0,0,0,0.5);
+}
+@media screen and (min-width:600px) {
+  .flip-button{
+    }
+  .flip-box51, .flip-box52,.flip-box53,.flip-box54,.flip-box55,.flip-box56,.flip-box57,.flip-box58,.flip-box59{
+    width: ;
+    height: 70vh;
+    perspective: 1000px;
+    background-position: center;
+    margin-top:10px;
+  }
+}

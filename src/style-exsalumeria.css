@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#player1 {
+display: inline-block;
+width: 100%;
+height: 50vh;
+background-image:url("./img/ExSalumeria-staff.jpg");
+background-size: cover;background-repeat: no-repeat;
+}
+
+.fotostaff{
+  background-image:url("./img/ExSalumeria-staff.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location1{
+  background-image:url("./img/ExSalumeria-location-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location2{
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location3{
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location4{
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.drink{
+
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.drink1 {
+  background-image:url("./img/ExSalumeria-Mojito-speziato.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink2 {
+  background-image:url("./img/ExSalumeria-RonChoco.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+}
+.drink3 {
+  background-image:url("./img/ExSalumeria-RonCoco.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink4{
+  background-image:url("./img/ExSalumeria-RonFrutosRojos.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink5 {
+  background-image:url("./img/ExSalumeria-RonMiel.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink6 {
+  background-image:url("./img/ExSalumeria-RonNaranja-Canela.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink7 {
+  background-image:url("./img/ExSalumeria-RonRegaliz.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink8 {
+  background-image:url("./img/ExSalumeria-RonVainilla.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink9 {
+  background-image:url("./img/ExSalumeria-analcolico.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+

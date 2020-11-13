@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+#player1 {
+display: inline-block;
+width: 100%;
+height: 50vh;
+background-image:url("./img/PepiVintage-Staff.jpg");
+background-size: cover;background-repeat: no-repeat;
+}
+.fotostaff{
+  background-image:url("./img/PepiVintage-Staff.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location1{
+  background-image:url("./img/PepiVintage-Location-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location2{
+ 
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location3{
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location4{
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.drink{
+
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.drink1 {
+  background-image:url("./img/PepiVintage-BasilSmash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink2 {
+  background-image:url("./img/PepiVintage-BloodyMary.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+}
+.drink3 {
+  background-image:url("./img/PepiVintage-Boulevardier.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink4{
+  background-image:url("./img/PepiVintage-Gambini.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink5 {
+  background-image:url("./img/PepiVintage-MartiniDry.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink6 {
+  background-image:url("./img/PepiVintage-MintJulep.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink7 {
+  background-image:url("./img/PepiVintage-MoskowMule.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink8 {
+  background-image:url("./img/PepiVintage-RightEnd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink9 {
+  background-image:url("./img/PepiVintage-TommysMargarita.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+

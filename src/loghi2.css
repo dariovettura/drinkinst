@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+.logos{height: 50px}
+.logo{height:20vh}
+.logo-footer{height:40vh}
+.logodrink{background-image:url("./img/logo-drinkinstreet-footer-1024x1024.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;
+}
+.logopepi{background-image:url( "./img/Pepi-Vintage.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logosalume{background-image:url( "./img/Ex-Salumeria.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logofesser{background-image:url( "./img/La-Fesseria.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logobuco{background-image:url( "./img/logo-dopotetro.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logoflanaga{background-image:url( "./img/Flanagans.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logofactory{background-image:url(  "./img/Beer-Garden.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logogrottino{background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/09/Grottino.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logoclock{background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/09/Clock.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}
+.logomisture{background-image:url("https://www.drinkinstreet.it/wp-content/uploads/2020/09/Misture.png");
+background-position:center;
+background-repeat:no-repeat;
+background-size:contain;}

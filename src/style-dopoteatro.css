@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.fotostaff{
+  background-image:url("../img/Dopoteatro-Staff.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location1{
+  background-image:url("../img/Dopoteatro-location-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location2{
+  background-image:url("../img/Dopoteatro-location-2.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location3{
+  background-image:url("../img/Dopoteatro-location-3.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location4{
+  background-image:url("../img/");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.drink{
+  width: ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.drink1 {
+  background-image:url("../img/Dopoteatro-cocktail-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink2 {
+  background-image:url("../img/Dopoteatro-cocktail-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+}
+.drink3 {
+  background-image:url("../img/Dopoteatro-cocktail-3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink4{
+  background-image:url("../img/Dopoteatro-cocktail-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink5 {
+  background-image:url("../img/Dopoteatro-cocktail-5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink6 {
+  background-image:url("../img/Dopoteatro-cocktail-6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink7 {
+  background-image:url("../img/Dopoteatro-cocktail-7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink8 {
+  background-image:url("../img/Dopoteatro-cocktail-8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink9 {
+  background-image:url("../img/Dopoteatro-cocktail-9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+

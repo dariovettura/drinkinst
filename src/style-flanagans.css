@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.fotostaff{
+  background-image:url("../img/Flanagan's-Staff.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location1{
+  background-image:url("../img/Flanagans-location-2.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location2{
+  background-image:url("../img/Flanagans-location-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location3{
+  background-image:url("../img/Flanagans-location-3.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.location4{
+  background-image:url("../img/");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position:center;
+  height:50vh}
+.drink{
+  width:auto ;
+  height: 500px;
+  perspective: 1000px;
+  background-position: center;
+}
+.drink1 {
+  background-image:url("../img/Flanagans-Kivy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink2 {
+  background-image:url("../img/Flanagans-Lechuza.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+}
+.drink3 {
+  background-image:url("../img/Flanagans-St-Martini.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.drink4{
+  background-image:url("../img/Flanagans-Buddy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink5 {
+  background-image:url("../img/Flanagans-JollyFizz.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink6 {
+  background-image:url("../img/Flanagans-Sinsemi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink7 {
+  background-image:url("../img/Flanagans-Springer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink8 {
+  background-image:url("../img/Flanagans-Pachamama.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.drink9 {
+  background-image:url("../img/Flanagans-Calvados.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
