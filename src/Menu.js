@@ -1,5 +1,7 @@
-
- jQuery(document).ready(function( $ ){
+import $ from "jquery";
+ 
+ 
+ $(document).ready(function( $ ){
    $('#toggle').click(function() {
    $(this).toggleClass('active');
    $('#overlay').toggleClass('open');
