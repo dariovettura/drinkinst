@@ -6,6 +6,7 @@ import Salumeria from './pages/Ex_Salumeria';
 import Pepi from './pages/Pepi_Vintage';
 import Dopoteatro from './pages/Dopoteatro';
 import Fesseria from './pages/La_Fesseria';
+import Rifesseria from './pages/Rifesseria';
 import Flanagans from './pages/Flanagans';
 
 
@@ -25,6 +26,7 @@ function App(){
 		<Route exact path="/Ex_Salumeria" component={Salumeria}/>
 		<Route exact path="/Dopoteatro" component={Dopoteatro}/>
 		<Route exact path="/La_Fesseria" component={Fesseria}/>
+		<Route exact path="/Rifesseria" component={Rifesseria}/>
 		<Route exact path="/Flanagans" component={Flanagans}/>
 </Switch>
 

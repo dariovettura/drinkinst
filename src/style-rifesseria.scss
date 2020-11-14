@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+.rifesseria {
+  background: red !important;
+  .stocazzo{
+    background: red;
+  }
+  .fotostaff{
+    background-image:url("img/laFesseria-staff.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    height:50vh}
+  .location1{
+    background-image:url("img/laFesseria-location.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    height:50vh}
+  .location2{
+    background-image:url("img/laFesseria-location-2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    height:50vh}
+  // .location3{
+  //   background-image:url("img/");
+  //   background-repeat: no-repeat;
+  //   background-size: contain;
+  //   background-position:center;
+  //   height:50vh}
+  // .location4{
+  //   background-image:url("img/");
+  //   background-repeat: no-repeat;
+  //   background-size: contain;
+  //   background-position:center;
+  //   height:50vh}
+  .drink{
+    /* width: ; */
+    height: 500px;
+    perspective: 1000px;
+    background-position: center;
+  }
+  .drink1 {
+    background-image:url("img/laFesseria-Bitter-mood.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+  }
+  .drink2 {
+    background-image:url("img/laFesseria-Boulevardier.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:left;
+  }
+  .drink3 {
+    background-image:url("img/laFesseria-Bramble.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+  }
+  .drink4{
+    background-image:url("img/laFesseria-Daiquiri.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .drink5 {
+    background-image:url("img/laFesseria-Damiana.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .drink6 {
+    background-image:url("img/laFesseria-FacciaGialla.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .drink7 {
+    background-image:url("img/laFesseria-FerryBoat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .drink8 {
+    background-image:url("img/laFesseria-Fizz-all-italiana.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .drink9 {
+    background-image:url("img/laFesseria-Mojito-virgin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+}
+
+
+
+
